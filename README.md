@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-router-rest.
+
 # think-router-rest
 
 [![npm](https://img.shields.io/npm/v/think-router-rest.svg?style=flat-square)]()
